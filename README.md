@@ -9,8 +9,8 @@ Este repositório contém o conjunto de entregáveis desenvolvidos para o projet
 * **Professor:** Otávio
 
 ## 👥 Integrantes
-* **Victor Hugo**
-* **José Antônio**
+* **Victor Hugo Rodrigues Silva**
+* **José Antônio dos Santos Filho**
 
 ---
 
@@ -35,6 +35,9 @@ Abaixo estão listados os marcos do projeto, organizados por ordem de conclusão
 * **Novembro/2025:** 🗄️ **Barbearia VJ.sql** - Script de criação do banco de dados (DDL/DML).
 * **Novembro/2025:** 📑 **Scripts.pdf** - Documentação detalhada e comentada de todos os scripts SQL gerados.
 
+🚀 2026: Consolidação e Requisitos
+Abril/2026: 📋 Requisitos Funcionais e Não Funcionais - Documento detalhando as funcionalidades do sistema e os critérios de qualidade, desempenho e restrições operacionais.
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
@@ -44,4 +47,4 @@ Abaixo estão listados os marcos do projeto, organizados por ordem de conclusão
 * **Documentação:** Microsoft Word / Markdown.
 
 ---
-© 2025 - Desenvolvido para fins acadêmicos.
+© 2024 - Desenvolvido para fins acadêmicos.
